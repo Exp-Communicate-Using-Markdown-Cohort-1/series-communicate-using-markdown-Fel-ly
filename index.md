@@ -6,3 +6,7 @@
 
 $ git pull
 Already upto date
+
+- [X] Turn on github pages
+- [ ] Update my portfolio
+- [ ] Thhis task is complete
