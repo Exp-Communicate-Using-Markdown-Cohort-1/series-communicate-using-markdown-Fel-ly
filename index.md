@@ -3,3 +3,6 @@
 ### A third one won't harm hihi
 
 ![Image of sunset](https://cdn.stocksnap.io/img-thumbs/280h/DW4G9APXWW.jpg)
+
+$ git pull
+Already upto date
